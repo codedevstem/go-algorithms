@@ -6,7 +6,7 @@
 ## Sections
 ### Basics
 #### Sorting
-- [ ] Bubble-Sort
+- [x] Bubble-Sort
 
 ### Search
 - [ ] Linear
