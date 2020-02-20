@@ -10,5 +10,5 @@
 - [x] Selection-Sort
 
 ### Search
-- [ ] Linear
+- [x] Linear
 - [ ] Binary 
